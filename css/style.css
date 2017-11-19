@@ -1,0 +1,30 @@
+body {background-color: #eee;}
+
+.form-signin {max-width: 330px; width: 100%;  padding: 15px;margin: 0 auto;padding-top: 100px;}
+.form-signin h2{text-align: center;}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {margin-bottom: 10px;}
+.form-signin .checkbox {font-weight: normal;}
+.form-signin .form-control {position: relative;height: auto;margin-bottom: 10px!important;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;padding: 10px;font-size: 16px;}
+.form-signin .form-control:focus {z-index: 2;}
+.form-signin input[type="email"] {margin-bottom: -1px;border-bottom-right-radius: 0;border-bottom-left-radius: 0;}
+.form-signin input[type="password"] {margin-bottom: 10px;border-top-left-radius: 0;border-top-right-radius: 0;}
+.login-form{padding-top: 15px;}
+.login-form .checkbox{text-align: right;padding-right: 74px;}
+.error{color: red; font-weight: bold;}
+.success{padding: 20px; background: #8dc759; text-align: center; font-weight: bold; text-transform: uppercase; color: #fff;}
+.add-article{padding-top: 50px; padding-bottom: 150px;}
+.add-article label{font-weight: bold;display: block;}
+.add-article textarea{width: 100%;height: 300px;}
+.blog-title{margin-bottom: 10px;}
+.blog-post{padding-bottom: 20px;}
+.blog-post img{max-width: 500px;}
+.comment_container{display: none; padding: 15px 0;}
+.comment_container textarea{width: 60%;height: 100px;}
+.comment_container button{margin-top: 20px;cursor: pointer;}
+.comment_container .media{padding-left: 20px;}
+.comment_container .comment-form{margin-top: 20px;}
+.add_comment{    background: #4d7bff;display: inline-block;padding: 6px 20px;color: #fff;cursor: pointer; margin-top: 15px; }
